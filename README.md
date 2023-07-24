@@ -15,6 +15,10 @@ For this project, the `Cornac` library will be used to develop the anime recomme
 # Recommender Demo
 The images below show the results of running the anime recommender using the `streamlit` module: 
 
+![Current User Anime Recommendations](https://github.com/dariusbtzc/anime_recommender/blob/98c82ca9654bb3915e1a89cdc9539ce73de637f5/user_current_anime_reco.png)
+
 For the current users, the selected model (i.e., Collaborative Topic Regression) was used to recommend personalised anime titles.
+
+![New User Anime Recommendations](https://github.com/dariusbtzc/anime_recommender/blob/98c82ca9654bb3915e1a89cdc9539ce73de637f5/user_new_anime_reco.png)
 
 In contrast, for new users, a baseline model (i.e., Most Popular) was used to recommend the most popular anime titles.
