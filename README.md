@@ -10,3 +10,11 @@ In doing so, the recommender can align with **user preferences** and recommend a
 For this project, the `Cornac` library will be used to develop the anime recommender from pre-processing to deployment. For more information on `Cornac`, please refer to the links below:
 * GitHub: [https://github.com/PreferredAI/cornac](https://github.com/PreferredAI/cornac)
 * Documentation: [https://cornac.readthedocs.io/en/latest/](https://cornac.readthedocs.io/en/latest/)
+
+
+# Recommender Demo
+The images below show the results of running the anime recommender using the `streamlit` module: 
+
+For the current users, the selected model (i.e., Collaborative Topic Regression) was used to recommend personalised anime titles.
+
+In contrast, for new users, a baseline model (i.e., Most Popular) was used to recommend the most popular anime titles.
